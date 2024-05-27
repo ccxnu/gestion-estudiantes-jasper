@@ -4,6 +4,7 @@ import net.sf.jasperreports.engine.*;
 import net.sf.jasperreports.view.JasperViewer;
 import net.sf.jasperreports.engine.data.JRBeanCollectionDataSource;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.HashMap;

@@ -3,7 +3,7 @@ package org.example;
 import java.util.ArrayList;
 
 public class SistemaGestionEstudiantes {
-    private ArrayList<Estudiante> listaEstudiantes;
+    private final ArrayList<Estudiante> listaEstudiantes;
 
     public SistemaGestionEstudiantes() {
         listaEstudiantes = new ArrayList<>();
